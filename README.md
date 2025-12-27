@@ -21,25 +21,28 @@ Portfolio
 ![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20&%20Algorithms-blue?style=for-the-badge)
 ![OS](https://img.shields.io/badge/Operating%20Systems-Concepts-green?style=for-the-badge)
 ![DBMS](https://img.shields.io/badge/DBMS-SQL%20%26%20Design-purple?style=for-the-badge)
+
 ---
 
-## 📚 Learning & Projects in Progress
-- Practicing DSA problems in Python and C  
-- Building small web projects using HTML, CSS, and JavaScript  
-- Exploring database queries and management with SQL  
-- Understanding OS concepts and system programming  
+## 📌 What I'm Currently Doing
+- Solving **DSA problems** using Python & C  
+- Building **mini web projects** with HTML, CSS & JavaScript  
+- Practicing **SQL queries** and DBMS concepts  
+- Strengthening **Operating Systems fundamentals**
+
 ---
 
-## 🎯 Goals
-- Build 3–5 mini-projects for web and database applications  
-- Deepen knowledge in full-stack web development and DSA  
-- Start contributing to open-source projects  
+## 🎯 Short-Term Goals
+- Build 3–5 solid mini projects  
+- Create a personal portfolio website  
+- Improve problem-solving speed in DSA  
+- Start contributing to open-source  
+
 ---
 
-## 📫 Contact Me
-- LinkedIn: [Jahanvi Singh](https://www.linkedin.com/in/jahanvi-singh-875412395/)
-- Email: jahanvisingh1405@gmail.com
----
+## 📫 Connect With Me
+- 🔗 LinkedIn: https://linkedin.com/in/jahanvi-singh-875412395  
+- 📧 Email: jahanvisingh1405@gmail.com  
 ---
 
 *“Striving to learn, build, and grow every day.”*
