@@ -27,7 +27,7 @@ Become a Software Engineer and AI Developer while building impactful projects.
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,c++,mysql"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,mysql"/>
 </p>
 
 ### Web Development
@@ -39,7 +39,7 @@ Become a Software Engineer and AI Developer while building impactful projects.
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=github,vscode"/>
 </p>
 
 ---
