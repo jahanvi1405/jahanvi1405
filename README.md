@@ -93,5 +93,7 @@ Become a Software Engineer and AI Developer while building impactful projects.
 
 ## 💡 Quote
 
-> *"Striving to learn, build, and grow every day."* 🌱
+<p align="center">
+<i>"Striving to learn, build, and grow every day."</i> 🌱
+</p>
 
