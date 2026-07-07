@@ -78,23 +78,6 @@ Become a Software Engineer and AI Developer while building impactful projects.
 - ✅ Contribute to Open Source
 - ✅ Get a Software Development Internship
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jahanvi1405&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahanvi1405&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jahanvi1405&theme=tokyonight"/>
-
-</p>
 
 ---
 
