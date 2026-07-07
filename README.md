@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jahanvi Singh</h1>
 <h3 align="center">AI & Data Science Engineering Student | Java & MERN Learner | Problem Solver</h3>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=jahanvi1405&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
 
 ---
 
