@@ -44,17 +44,18 @@ Become a Software Engineer and AI Developer while building impactful projects.
 
 ---
 
-## 🚀 Featured Projects
+## # 🚀 Featured Projects
 
-📚 Library Management System
+* 📚 **Library Management System** – Python-based application for managing books and records.
+* 💰 **Expense Tracker** – Responsive web app to track income, expenses, and balance using JavaScript.
+* 🚕 **Uber Clone Frontend** – Responsive UI inspired by Uber using HTML and CSS.
+* 🎮 **Mario Card Game** – Interactive memory card game built with JavaScript.
+* 🔨 **Whack-a-Mole Game** – Fun browser game using HTML, CSS, and JavaScript.
+* 🎬 **Studio Namma Clone** – Responsive landing page clone focusing on modern layouts and UI design.
+* 🟦 **CSS Grid Practice** – Collection of responsive layouts built using CSS Grid to strengthen layout fundamentals.
+* ⏱️ **Counter & Slideshow Practice** – JavaScript mini project featuring a countdown timer and automatic image slideshow.
 
-💰 Expense Tracker
 
-🚕 Uber Clone Frontend
-
-🎮 Mario Card Game
-
-🔨 Whack-a-Mole Game
 
 ---
 
